@@ -1,9 +1,11 @@
-import Router from "./router"
+// import Router from "./router"
 
 function App() {
 
   return (
-    <div>andi</div>
+    <div>
+      <p>andi</p>
+    </div>
   )
 }
 
